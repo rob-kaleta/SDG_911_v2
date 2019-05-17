@@ -7,25 +7,15 @@ Goal of project
 
 ## Data
 Before running the script download the following data sets and place them in the specified folders
-** GRIP roads:**
+**GRIP roads:**
  * Download the fgdb file for the relevant region
  * https://www.globio.info/download-grip-dataset
  * Unzip into the data/roads folders
  
-** GHSL Population:**
+**GHSL Population:**
  *
 
-## Research Questions
-Examples of research questions that were discussed with the Welsh Government and can potential be answered using the tool are:
 
-
-**Access to services:** What is the average return trip travel time to the nearest service, per Lower Super Output Area (LSOA)?
- * using public transport
- * using private transport
- * using any transport
-
-
-## Data
 
 
 ## Authors / Contributors
